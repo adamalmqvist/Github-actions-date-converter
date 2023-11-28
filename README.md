@@ -4,11 +4,11 @@
 
 GitHub Actions Date Converter is a Chrome extension that enhances your GitHub experience by converting relative dates (like "2 days ago") to absolute dates (like "Nov 28, 2023") on GitHub Actions pages. This allows for more precise tracking and understanding of timelines in your repositories.
 
-![Screenshot](/assets/screenshot1.png)
+![Screenshot](/assets/screenshot2.png)
 
 To
 
-![Screenshot](/assets/screenshot2.png)
+![Screenshot](/assets/screenshot1.png)
 
 ## ⭐ Features
 
